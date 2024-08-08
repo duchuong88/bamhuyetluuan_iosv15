@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "393369549746",
+    "firebase_url": "https://bam-huyet-luu-an-default-rtdb.firebaseio.com",
+    "project_id": "bam-huyet-luu-an",
+    "storage_bucket": "bam-huyet-luu-an.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393369549746:android:5e24aa73a98f9469e902ab",
+        "android_client_info": {
+          "package_name": "bamhuyetluuan.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQX92mTVYXY1qqo-v2EytL9Yf4g2Rp4FM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
